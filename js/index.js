@@ -119,6 +119,7 @@ function onDocumentMouseDown( event ) {
 }
 
 function onDocumentMouseMove( event ) {
+  log
   var movementX = event.movementX || event.mozMovementX || event.webkitMovementX || 0;
   var movementY = event.movementY || event.mozMovementY || event.webkitMovementY || 0;
   lon -= movementX * 0.1;
