@@ -6,3 +6,4 @@
 
 参考demo:
 https://www.h5-share.com/test/threejsdemo-2016-12-09/index.html
+sphere pano demo中添加了一个实现球体模型渲染全景图的例子，同时支持PC拖拽事件和移动端绑定陀螺仪及手势滑动事件
